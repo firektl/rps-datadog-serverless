@@ -56,7 +56,13 @@ func main() {
 	router.HandleFunc("/game", handlers.Game)
 	router.HandleFunc("/play", handlers.Play)
 	router.HandleFunc("/about", handlers.About)
-	port := ":8080"
+	//port := ":8080"
+
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+	port = ":" + port
 
 	log.Printf("Servidor escuchando en http://localhost%s\n", port)
 	log.Fatal(http.ListenAndServe(port, router))
