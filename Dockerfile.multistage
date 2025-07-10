@@ -1,0 +1,14 @@
+FROM golang:1.22 AS build
+WORKDIR /go/src/rpsweb
+COPY . ./
+RUN go mod download
+RUN CGO_ENABLED=0 GOOS=linux go build -o /app/rpsweb
+
+FROM gcr.io/distroless/base-debian11 AS build-release-stage
+WORKDIR /app
+COPY --from=build /go/src/rpsweb/templates /app/templates
+COPY --from=build /go/src/rpsweb/static /app/static
+COPY --from=build /app/rpsweb /app/rpsweb
+EXPOSE 8080
+USER nonroot:nonroot
+ENTRYPOINT ["/app/rpsweb"]

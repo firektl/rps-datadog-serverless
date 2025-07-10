@@ -1,0 +1,1551 @@
+2025/06/10 12:57:58 Servidor escuchando en http://localhost:8080
+2025/06/10 12:58:33 Servidor escuchando en http://localhost:8080
+2025/06/10 13:08:45 Servidor escuchando en http://localhost:8080
+2025/06/10 13:08:55 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0}
+2025/06/10 13:09:09 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1}
+2025/06/10 13:09:15 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0}
+2025/06/10 13:16:45 Servidor escuchando en http://localhost:8080
+2025/06/10 13:19:09 Servidor escuchando en http://localhost:8080
+2025/06/10 13:19:13 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | trace_id: 9019059329677280977 | span_id: 9019059329677280977 
+2025/06/10 13:27:40 Servidor escuchando en http://localhost:8080
+2025/06/10 13:28:06 Resultado: {¡Inténtalo de nuevo! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=4121056972348856157 | dd.span_id=4121056972348856157
+2025/06/10 13:44:19 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=3199349559752659812 | dd.span_id=3199349559752659812
+2025/06/10 14:00:13 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=8056471649375059337 | dd.span_id=8056471649375059337
+2025/06/10 14:00:14 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=1177199909538859151 | dd.span_id=1177199909538859151
+2025/06/10 14:00:15 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=103652503370752843 | dd.span_id=103652503370752843
+2025/06/10 14:00:17 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=8780772637373926349 | dd.span_id=8780772637373926349
+2025/06/10 14:14:18 Servidor escuchando en http://localhost:8080
+2025/06/10 14:14:55 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=8162153029333373851 | dd.span_id=8162153029333373851
+2025/06/10 14:18:17 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=7284686350831316060 | dd.span_id=7284686350831316060
+2025/06/10 14:19:40 Servidor escuchando en http://localhost:8080
+2025/06/10 14:21:37 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=3817560909032436027 | dd.span_id=3817560909032436027
+2025/06/10 14:31:16 Servidor escuchando en http://localhost:8080
+2025/06/10 14:31:50 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=537499908991247366 | dd.span_id=537499908991247366
+2025/06/10 14:35:40 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=6130673861821270258 | dd.span_id=6130673861821270258
+2025/06/10 14:40:00 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=556511702366736464 | dd.span_id=556511702366736464
+2025/06/10 14:40:04 Resultado: {¡Buen trabajo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=6966453375729048000 | dd.span_id=6966453375729048000
+2025/06/10 14:41:58 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=8924825065155103769 | dd.span_id=8924825065155103769
+2025/06/10 14:42:19 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=1446295298478517434 | dd.span_id=1446295298478517434
+2025/06/10 14:53:36 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=8757149610927022832 | dd.span_id=8757149610927022832
+2025/06/10 14:53:39 Resultado: {¡Buen trabajo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=3668851822821824110 | dd.span_id=3668851822821824110
+2025/06/10 14:53:40 Resultado: {¡Inténtalo de nuevo! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=6336265749805019323 | dd.span_id=6336265749805019323
+2025/06/10 14:53:41 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=7545477185013896660 | dd.span_id=7545477185013896660
+2025/06/10 14:53:42 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=1119911079193616059 | dd.span_id=1119911079193616059
+2025/06/10 14:53:42 Resultado: {¡Buen trabajo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=2215869592480326843 | dd.span_id=2215869592480326843
+2025/06/10 14:53:42 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=7370382965902582105 | dd.span_id=7370382965902582105
+2025/06/10 14:53:42 Resultado: {¡Buen trabajo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=7666143034914755429 | dd.span_id=7666143034914755429
+2025/06/10 14:53:43 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=8234582505850512557 | dd.span_id=8234582505850512557
+2025/06/10 14:53:43 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=5226745814160414306 | dd.span_id=5226745814160414306
+2025/06/10 14:53:43 Resultado: {Oh oh, Inténtalo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=5542064998441261468 | dd.span_id=5542064998441261468
+2025/06/10 14:53:54 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=1564828780048370181 | dd.span_id=1564828780048370181
+2025/06/10 15:07:42 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=5857100463042088232 | dd.span_id=5857100463042088232
+2025/06/10 15:07:48 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=1217365749925672324 | dd.span_id=1217365749925672324
+2025/06/10 15:05:00 PRUEBA MANUAL DE LOG | trace_id: 1234567890 | span_id: 1234567890
+2025/06/10 19:39:18 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=9167741719067951847 | dd.span_id=9167741719067951847
+2025/06/10 19:39:20 Resultado: {¡Inténtalo de nuevo! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=5992704834959979580 | dd.span_id=5992704834959979580
+2025/06/10 19:39:20 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=4084904963467613261 | dd.span_id=4084904963467613261
+2025/06/10 19:39:21 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=923263024851637218 | dd.span_id=923263024851637218
+2025/06/10 19:39:22 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=5929449559900063959 | dd.span_id=5929449559900063959
+2025/06/10 19:39:23 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=110215120675848035 | dd.span_id=110215120675848035
+2025/06/10 19:39:23 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=1929819063630228599 | dd.span_id=1929819063630228599
+2025/06/10 19:39:24 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=2161046717128440898 | dd.span_id=2161046717128440898
+2025/06/10 19:39:24 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=6040435067037456033 | dd.span_id=6040435067037456033
+2025/06/10 19:39:24 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=8314811198565321671 | dd.span_id=8314811198565321671
+2025/06/10 19:39:24 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=5359349733731702884 | dd.span_id=5359349733731702884
+2025/06/10 19:39:25 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=7985287736528763555 | dd.span_id=7985287736528763555
+2025/06/10 19:39:25 Resultado: {¡Inténtalo de nuevo! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=7764876060068172291 | dd.span_id=7764876060068172291
+2025/06/10 19:39:25 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=8830443814038289321 | dd.span_id=8830443814038289321
+2025/06/10 19:39:26 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=2115226994335158354 | dd.span_id=2115226994335158354
+2025/06/10 19:39:26 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=4463152293254921280 | dd.span_id=4463152293254921280
+2025/06/10 19:39:26 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=7788957339714928147 | dd.span_id=7788957339714928147
+2025/06/10 19:39:27 Resultado: {¡Buen trabajo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=204027291578923321 | dd.span_id=204027291578923321
+2025/06/10 19:39:27 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=4407248784712649012 | dd.span_id=4407248784712649012
+2025/06/10 19:39:28 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=8133233006042757996 | dd.span_id=8133233006042757996
+2025/06/10 19:39:28 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=9143463031245153166 | dd.span_id=9143463031245153166
+2025/06/10 19:39:28 Resultado: {Las grandes mentes piensan igual La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=5865268448875946649 | dd.span_id=5865268448875946649
+2025/06/10 19:39:28 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=6050128729012498020 | dd.span_id=6050128729012498020
+2025/06/10 19:39:29 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=8369743975248591299 | dd.span_id=8369743975248591299
+2025/06/10 19:39:29 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=375369669815217671 | dd.span_id=375369669815217671
+2025/06/10 19:39:29 Resultado: {¡Inténtalo de nuevo! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=7772779175202003915 | dd.span_id=7772779175202003915
+2025/06/11 08:39:22 Servidor escuchando en http://localhost:8080
+2025/06/11 08:39:39 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=6716932216205998715 | dd.span_id=6716932216205998715
+2025/06/11 09:17:36 Servidor escuchando en http://localhost:8080
+2025/06/11 09:17:45 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | dd.trace_id=7085251301349082329 | dd.span_id=7085251301349082329 | data=&{true 0xc00014c540 0xc000a692b0 0 [104 73 144 9 0 0 0 0 98 83 222 132 241 73 68 217] 7085251301349082329 {{0 0} 0 0 {{} 0} {{} 0}} map[] 0 }
+2025/06/11 09:25:15 Servidor escuchando en http://localhost:8080
+2025/06/11 09:45:53 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PIEDRA Es un empate 0 0 0} | trace_id=4800162510124574519 | span_id=4800162510124574519 | data=&{true 0xc000164e00 0xc0007056c0 0 [104 73 150 161 0 0 0 0 66 157 154 94 224 31 103 55] 4800162510124574519 {{0 0} 0 0 {{} 0} {{} 0}} map[] 0 }
+2025/06/11 09:51:08 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | trace_id=7460247262125196785 | span_id=7460247262125196785 | data=&{true 0xc000116c40 0xc0000371e0 0 [104 73 151 220 0 0 0 0 103 136 31 91 219 141 133 241] 7460247262125196785 {{0 0} 0 0 {{} 0} {{} 0}} map[] 0 }
+2025/06/11 15:23:11 Servidor escuchando en http://localhost:8080
+2025/06/11 15:23:17 my log message dd.service=rpsweb dd.env=lab dd.trace_id="8383354288954148958" dd.span_id="8383354288954148958" dd.parent_id="0"
+2025/06/11 15:23:19 my log message dd.service=rpsweb dd.env=lab dd.trace_id="5167513758897760665" dd.span_id="5167513758897760665" dd.parent_id="0"
+2025/06/11 15:23:20 my log message dd.service=rpsweb dd.env=lab dd.trace_id="8302900559263429135" dd.span_id="8302900559263429135" dd.parent_id="0"
+2025/06/11 15:38:14 Servidor escuchando en http://localhost:8080
+2025/06/11 15:38:44 Servidor escuchando en http://localhost:8080
+2025/06/11 15:39:43 my log message dd.service=rpsweb dd.env=lab dd.trace_id="6991250714073699481" dd.span_id="6991250714073699481" dd.parent_id="0"
+2025/06/11 15:39:47 my log message dd.service=rpsweb dd.env=lab dd.trace_id="4332660529416643168" dd.span_id="4332660529416643168" dd.parent_id="0"
+2025/06/11 15:45:52 Servidor escuchando en http://localhost:8080
+2025/06/11 15:46:04 my log message dd.service=rpsweb dd.env=lab dd.trace_id="7085027242487534518" dd.span_id="7085027242487534518" dd.parent_id="0"
+2025/06/11 15:46:05 my log message dd.service=rpsweb dd.env=lab dd.trace_id="1192515030987565608" dd.span_id="1192515030987565608" dd.parent_id="0"
+2025/06/11 15:53:12 Servidor escuchando en http://localhost:8080
+2025/06/11 15:59:24 Servidor escuchando en http://localhost:8080
+2025/06/11 15:59:34 Servidor escuchando en http://localhost:8080
+2025/06/11 15:59:53 my log message dd.service=rpsweb dd.env=lab dd.trace_id="5704893503171435680" dd.span_id="5704893503171435680" dd.parent_id="0"
+2025/06/11 15:59:56 my log message dd.service=rpsweb dd.env=lab dd.trace_id="6423570086695139356" dd.span_id="6423570086695139356" dd.parent_id="0"
+2025/06/11 15:59:56 my log message dd.service=rpsweb dd.env=lab dd.trace_id="5591689622928887844" dd.span_id="5591689622928887844" dd.parent_id="0"
+2025/06/11 16:06:49 my log message dd.service=rpsweb dd.env=lab dd.trace_id="928921758306365340" dd.span_id="928921758306365340" dd.parent_id="0"
+2025/06/11 16:10:00 Servidor escuchando en http://localhost:8080
+2025/06/11 16:26:47 my log message dd.service=rpsweb dd.env=lab dd.trace_id="5850570147867469735" dd.span_id="5850570147867469735" dd.parent_id="0"
+2025/06/11 16:26:49 my log message dd.service=rpsweb dd.env=lab dd.trace_id="2446169935837754627" dd.span_id="2446169935837754627" dd.parent_id="0"
+2025/06/11 16:26:50 my log message dd.service=rpsweb dd.env=lab dd.trace_id="4476010613364161695" dd.span_id="4476010613364161695" dd.parent_id="0"
+2025/06/11 16:26:51 my log message dd.service=rpsweb dd.env=lab dd.trace_id="7565360413198835026" dd.span_id="7565360413198835026" dd.parent_id="0"
+2025/06/11 16:26:52 my log message dd.service=rpsweb dd.env=lab dd.trace_id="6513559552334141812" dd.span_id="6513559552334141812" dd.parent_id="0"
+2025/06/11 16:27:05 my log message dd.service=rpsweb dd.env=lab dd.trace_id="730573192854025496" dd.span_id="730573192854025496" dd.parent_id="0"
+2025/06/11 16:27:09 my log message dd.service=rpsweb dd.env=lab dd.trace_id="4342247866887468797" dd.span_id="4342247866887468797" dd.parent_id="0"
+2025/06/11 16:27:16 my log message dd.service=rpsweb dd.env=lab dd.trace_id="3972219222955453920" dd.span_id="3972219222955453920" dd.parent_id="0"
+2025/06/11 16:27:18 my log message dd.service=rpsweb dd.env=lab dd.trace_id="6226297347658734499" dd.span_id="6226297347658734499" dd.parent_id="0"
+2025/06/11 16:27:38 my log message dd.service=rpsweb dd.env=lab dd.trace_id="7125371560877465882" dd.span_id="7125371560877465882" dd.parent_id="0"
+2025/06/11 16:29:30 Servidor escuchando en http://localhost:8080
+2025/06/11 16:29:54 Resultado: {¡Bien echo! La computadora eligió PAPEL ¡El jugador gana! 1 0 1} | dd.trace_id=7277411607221745480 | dd.span_id=7277411607221745480
+2025/06/11 16:29:57 Resultado: {¡Qué lástima! La computadora eligió TIJERA !La computadora gana¡ 2 1 0} | dd.trace_id=4179675767039861902 | dd.span_id=4179675767039861902
+2025/06/11 16:30:00 Resultado: {Hoy simplemente no es tu día La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | dd.trace_id=7369873375692970872 | dd.span_id=7369873375692970872
+2025/06/11 16:36:45 Servidor escuchando en http://localhost:8080
+2025/06/11 16:37:19 Servidor escuchando en http://localhost:8080
+2025/06/11 16:38:10 Resultado: {Deberías comprar un boleto de lotería La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=4519106821505584376 | dd.span_id=6564576199390311352
+2025/06/11 17:11:55 Servidor escuchando en http://localhost:8080
+2025/06/11 17:16:34 Servidor escuchando en http://localhost:8080
+2025/06/11 17:16:59 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PAPEL Es un empate 1 0 0} | dd.trace_id=9106134971300359479 | dd.span_id=4254577259815510184
+2025/06/11 17:16:59 Resultado HEX: trace_id=7e5f7d82911ead37 | span_id=3b0b4b79e0c220a8
+2025/06/11 17:49:17 Servidor escuchando en http://localhost:8080
+2025/06/11 17:52:44 Servidor escuchando en http://localhost:8080
+2025/06/11 17:53:02 Servidor escuchando en http://localhost:8080
+2025/06/11 18:08:01 Resultado: 6758442415291234442 | trace_id=0135e7d24ecb89c8 | span_id=%!x(MISSING)
+2025/06/11 18:08:03 Resultado: 587955227032397961 | trace_id=709d280f516c126a | span_id=%!x(MISSING)
+2025/06/11 18:08:06 Resultado: 1278525573848839320 | trace_id=757dadb9b21c9114 | span_id=%!x(MISSING)
+2025/06/11 18:08:10 Resultado: 2311069919121811411 | trace_id=50f3360ad59b9d80 | span_id=%!x(MISSING)
+2025/06/11 18:10:02 Servidor escuchando en http://localhost:8080
+2025/06/11 18:14:15 Resultado: {¡Inténtalo de nuevo! La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | trace_id=709022c2324b0a7e | span_id=46b932ce92a17e3c
+2025/06/11 18:14:24 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió PAPEL Es un empate 1 0 0} | trace_id=625880781018fecf | span_id=3cc2c8fdc76c86b7
+2025/06/11 18:14:31 Resultado: {Nadie gana, pero puedes intentarlo de nuevo La computadora eligió TIJERA Es un empate 2 0 0} | trace_id=1c15b963dc3df25d | span_id=411d5211dc90f5ab
+2025/06/11 18:18:52 Servidor escuchando en http://localhost:8080
+2025/06/11 18:21:25 Servidor escuchando en http://localhost:8080
+2025/06/11 18:22:55 http: panic serving [::1]:60241: runtime error: index out of range [0] with length 0
+goroutine 118 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xbd6be0?, 0xc000024420?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0xcfba60, 0xc000638540}, 0xc000118f00)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xcacc60, {0xcfba60, 0xc000638540}, 0xc000118f00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xcfba60, 0xc000638540}, 0xc000118f00)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6a80, 0xc0002040e0}, {0xcfba60, 0xc000638480}, 0xc000118dc0, 0xc000bd5178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0000951b0, {0xcfba60, 0xc000638480}, 0xc000118dc0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6760, 0xc0000951b0}, {0xcfb910, 0xc0002042a0}, 0xc000118c80, 0xc000bd5590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0xcfb910, 0xc0002042a0}, 0xc000118c80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc000123a00, {0xcfb910, 0xc0002042a0}, 0xc000118c80)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc00065a000}, {0xcfb910, 0xc0002042a0}, 0xc000118c80)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00064a480, {0xcfc808, 0xc00019e500})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:22:59 http: panic serving [::1]:60248: runtime error: index out of range [0] with length 0
+goroutine 79 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xbd6be0?, 0xc0001466c0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0xcfba60, 0xc000230f00}, 0xc000be23c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xcacc60, {0xcfba60, 0xc000230f00}, 0xc000be23c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xcfba60, 0xc000230f00}, 0xc000be23c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6a80, 0xc0002040e0}, {0xcfba60, 0xc000230dc0}, 0xc000be2280, 0xc000bed178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0000951b0, {0xcfba60, 0xc000230dc0}, 0xc000be2280)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6760, 0xc0000951b0}, {0xcfb910, 0xc000bf00e0}, 0xc000be2140, 0xc000bed590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0xcfb910, 0xc000bf00e0}, 0xc000be2140)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc000123a00, {0xcfb910, 0xc000bf00e0}, 0xc000be2140)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc00065a000}, {0xcfb910, 0xc000bf00e0}, 0xc000be2140)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000158630, {0xcfc808, 0xc000650190})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:23:15 http: panic serving [::1]:60276: runtime error: index out of range [2] with length 0
+goroutine 120 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xbd6be0?, 0xc000802138?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0xcfba60, 0xc000122780}, 0xc0008063c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xcacc60, {0xcfba60, 0xc000122780}, 0xc0008063c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xcfba60, 0xc000122780}, 0xc0008063c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6a80, 0xc0002040e0}, {0xcfba60, 0xc000122680}, 0xc000806280, 0xc000707178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0000951b0, {0xcfba60, 0xc000122680}, 0xc000806280)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6760, 0xc0000951b0}, {0xcfb910, 0xc00080a0e0}, 0xc000806140, 0xc000707590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0xcfb910, 0xc00080a0e0}, 0xc000806140)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc000123a00, {0xcfb910, 0xc00080a0e0}, 0xc000806140)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc00065a000}, {0xcfb910, 0xc00080a0e0}, 0xc000806140)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00064ac60, {0xcfc808, 0xc00019ea00})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:23:15 Resultado: {¡Buen trabajo! La computadora eligió PIEDRA ¡El jugador gana! 0 0 1} | trace_id=36d9d5d9c803179b | span_id=8357543339001019885
+2025/06/11 18:23:56 http: panic serving [::1]:60275: runtime error: index out of range [2] with length 0
+goroutine 81 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xbd6be0?, 0xc000146ae0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0xcfba60, 0xc0009e4100}, 0xc0007aea00)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xcacc60, {0xcfba60, 0xc0009e4100}, 0xc0007aea00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xcfba60, 0xc0009e4100}, 0xc0007aea00)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6a80, 0xc0002040e0}, {0xcfba60, 0xc0009e4040}, 0xc0007ae8c0, 0xc0007c3178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0000951b0, {0xcfba60, 0xc0009e4040}, 0xc0007ae8c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6760, 0xc0000951b0}, {0xcfb910, 0xc000bf07e0}, 0xc0007ae780, 0xc0007c3590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0xcfb910, 0xc000bf07e0}, 0xc0007ae780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc000123a00, {0xcfb910, 0xc000bf07e0}, 0xc0007ae780)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc00065a000}, {0xcfb910, 0xc000bf07e0}, 0xc0007ae780)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000158bd0, {0xcfc808, 0xc00015ea00})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:23:56 http: panic serving [::1]:60340: runtime error: index out of range [2] with length 0
+goroutine 158 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xbd6be0?, 0xc000146c00?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0xcfba60, 0xc0009e4300}, 0xc0007aedc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xcacc60, {0xcfba60, 0xc0009e4300}, 0xc0007aedc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xcfba60, 0xc0009e4300}, 0xc0007aedc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6a80, 0xc0002040e0}, {0xcfba60, 0xc0009e4240}, 0xc0007aec80, 0xc0009ff178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0000951b0, {0xcfba60, 0xc0009e4240}, 0xc0007aec80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf6760, 0xc0000951b0}, {0xcfb910, 0xc000bf09a0}, 0xc0007aeb40, 0xc0009ff590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0xcfb910, 0xc000bf09a0}, 0xc0007aeb40)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc000123a00, {0xcfb910, 0xc000bf09a0}, 0xc0007aeb40)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc00065a000}, {0xcfb910, 0xc000bf09a0}, 0xc0007aeb40)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000159560, {0xcfc808, 0xc00019fa40})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:27:19 Servidor escuchando en http://localhost:8080
+2025/06/11 18:28:15 Resultado: { La computadora eligió PAPEL !La computadora gana¡ 1 1 0} | trace_id=44ce987b0cde3412 | span_id=6846976012421108355
+2025/06/11 18:28:21 http: panic serving [::1]:60731: runtime error: index out of range [2] with length 1
+goroutine 98 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1226be0?, 0xc00071c4e0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:68 +0x365
+rpsweb/handlers.Play({0x134ba60, 0xc0000a0900}, 0xc000156280)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x12fcc60, {0x134ba60, 0xc0000a0900}, 0xc000156280)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001840e0, {0x134ba60, 0xc0000a0900}, 0xc000156280)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1346a80, 0xc0001840e0}, {0x134ba60, 0xc0007023c0}, 0xc000096780, 0xc000f3f178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00020d240, {0x134ba60, 0xc0007023c0}, 0xc000096780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1346760, 0xc00020d240}, {0x134b910, 0xc000184460}, 0xc000096640, 0xc000f3f590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0x134b910, 0xc000184460}, 0xc000096640)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc000211c40, {0x134b910, 0xc000184460}, 0xc000096640)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc00067a000}, {0x134b910, 0xc000184460}, 0xc000096640)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000680c60, {0x134c808, 0xc000682b90})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:28:21 Resultado: {Deberías comprar un boleto de lotería La computadora eligió PIEDRA ¡El jugador gana! 0 1 1} | trace_id=12ce749dbbf4de55 | span_id=3632492209150528783
+2025/06/11 18:28:23 Resultado: { La computadora eligió TIJERA Es un empate 2 1 1} | trace_id=338e30540b2f2b1d | span_id=1997726853592716401
+2025/06/11 18:32:22 Servidor escuchando en http://localhost:8080
+2025/06/11 18:34:16 Servidor escuchando en http://localhost:8080
+2025/06/11 18:36:21 http: panic serving [::1]:61494: runtime error: index out of range [2] with length 1
+goroutine 48 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xc46be0?, 0xc0006da168?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:67 +0x365
+rpsweb/handlers.Play({0xd6ba80, 0xc00006eb00}, 0xc000179180)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xd1cc80, {0xd6ba80, 0xc00006eb00}, 0xc000179180)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0xd6ba80, 0xc00006eb00}, 0xc000179180)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xd66aa0, 0xc0001a40e0}, {0xd6ba80, 0xc00006e9c0}, 0xc000179040, 0xc001259178)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc000282520, {0xd6ba80, 0xc00006e9c0}, 0xc000179040)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xd66780, 0xc000282520}, {0xd6b930, 0xc0006d0620}, 0xc000178f00, 0xc001259590)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.WrapHandler.func1({0xd6b930, 0xc0006d0620}, 0xc000178f00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:91 +0x433
+net/http.HandlerFunc.ServeHTTP(0xc00006f980, {0xd6b930, 0xc0006d0620}, 0xc000178f00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.serverHandler.ServeHTTP({0xc0002f2000}, {0xd6b930, 0xc0006d0620}, 0xc000178f00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0001227e0, {0xd6c828, 0xc00029c3c0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:36:21 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 0 1} | dd.trace_id=814725139368608619 | dd.span_id=2803371660889816985
+2025/06/11 18:42:17 Servidor escuchando en http://localhost:8080
+2025/06/11 18:44:43 http: panic serving [::1]:62284: runtime error: index out of range [2] with length 1
+goroutine 62 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xd85aa0?, 0xc000024558?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:67 +0x365
+rpsweb/handlers.Play({0xeaa880, 0xc0005d2580}, 0xc000e572c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xe5bb00, {0xeaa880, 0xc0005d2580}, 0xc000e572c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xeaa880, 0xc0005d2580}, 0xc000e572c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xea58a0, 0xc0002040e0}, {0xeaa730, 0xc000204380}, 0xc000e57180, 0xc000735568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0005cd170, {0xeaa730, 0xc000204380}, 0xc000e57180)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc000730000}, {0xeaa730, 0xc000204380}, 0xc000e57180)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0006ce750, {0xeab628, 0xc0001c0a50})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:45:07 Resultado: {Oh oh, Inténtalo de nuevo La computadora eligió PAPEL Es un empate 1 0 0} | dd.trace_id=8270386572153665503 | dd.span_id=8270386572153665503
+2025/06/11 18:45:12 http: panic serving [::1]:62330: runtime error: index out of range [2] with length 1
+goroutine 140 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xd85aa0?, 0xc000160408?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:75 +0x356
+rpsweb/handlers.Play({0xeaa880, 0xc0000a1480}, 0xc000757180)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xe5bb00, {0xeaa880, 0xc0000a1480}, 0xc000757180)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xeaa880, 0xc0000a1480}, 0xc000757180)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xea58a0, 0xc0002040e0}, {0xeaa730, 0xc000b802a0}, 0xc000757040, 0xc000b45568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0005cd170, {0xeaa730, 0xc000b802a0}, 0xc000757040)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc000730000}, {0xeaa730, 0xc000b802a0}, 0xc000757040)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000d7710, {0xeab628, 0xc0000dd1d0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 18:45:12 Resultado: {¡Qué lástima! La computadora eligió TIJERA !La computadora gana¡ 2 2 0} | dd.trace_id=7263639642748212543 | dd.span_id=7263639642748212543
+2025/06/11 18:45:14 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 3 0} | dd.trace_id=8287755070545243658 | dd.span_id=8287755070545243658
+2025/06/11 18:45:15 Resultado: {Oh oh, Inténtalo de nuevo La computadora eligió TIJERA Es un empate 2 3 0} | dd.trace_id=8757302808524872230 | dd.span_id=8757302808524872230
+2025/06/11 18:45:17 Resultado: {¡Bien echo! La computadora eligió PIEDRA ¡El jugador gana! 0 3 1} | dd.trace_id=1324802368565936142 | dd.span_id=1324802368565936142
+2025/06/11 18:46:04 Servidor escuchando en http://localhost:8080
+2025/06/11 19:11:15 http: panic serving [::1]:64473: runtime error: index out of range [1] with length 1
+goroutine 677 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e2b8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc0006f4400}, 0xc0001777c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4400}, 0xc0001777c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4400}, 0xc0001777c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc00079a380}, 0xc000177680, 0xc000939568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc00079a380}, 0xc000177680)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc00079a380}, 0xc000177680)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122fc0, {0x196b608, 0xc000126e60})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:19 Resultado: {¡Qué lástima! La computadora eligió PIEDRA !La computadora gana¡ 0 1 1} | dd.trace_id=4084165078492251290 | dd.span_id=4084165078492251290
+2025/06/11 19:11:21 http: panic serving [::1]:64488: runtime error: index out of range [1] with length 1
+goroutine 669 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e450?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:75 +0x356
+rpsweb/handlers.Play({0x196a860, 0xc0006f4600}, 0xc000282dc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4600}, 0xc000282dc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4600}, 0xc000282dc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc00079a540}, 0xc000282c80, 0xc000935568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc00079a540}, 0xc000282c80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc00079a540}, 0xc000282c80)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000302ab0, {0x196b608, 0xc000127220})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:21 Resultado: {¡Bien echo! La computadora eligió PIEDRA ¡El jugador gana! 0 2 2} | dd.trace_id=7129521027191992855 | dd.span_id=7129521027191992855
+2025/06/11 19:11:22 http: panic serving [::1]:64490: runtime error: index out of range [1] with length 1
+goroutine 683 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e510?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:75 +0x356
+rpsweb/handlers.Play({0x196a860, 0xc0006f4700}, 0xc000283040)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4700}, 0xc000283040)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4700}, 0xc000283040)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc00079a700}, 0xc000282f00, 0xc000719568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc00079a700}, 0xc000282f00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc00079a700}, 0xc000282f00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000123830, {0x196b608, 0xc000992050})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:22 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 3 3} | dd.trace_id=1269555313648769335 | dd.span_id=1269555313648769335
+2025/06/11 19:11:24 Resultado: {Oh oh, Inténtalo de nuevo La computadora eligió PAPEL Es un empate 1 3 3} | dd.trace_id=2715589139132120912 | dd.span_id=2715589139132120912
+2025/06/11 19:11:24 Resultado: {¡Qué lástima! La computadora eligió PIEDRA !La computadora gana¡ 0 4 3} | dd.trace_id=1999622397326593024 | dd.span_id=1999622397326593024
+2025/06/11 19:11:25 http: panic serving [::1]:64495: runtime error: index out of range [2] with length 1
+goroutine 633 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc0000248a0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc0001cedc0}, 0xc000b98000)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0001cedc0}, 0xc000b98000)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0001cedc0}, 0xc000b98000)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc0001a4540}, 0xc000073e00, 0xc000939568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc0001a4540}, 0xc000073e00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc0001a4540}, 0xc000073e00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000744990, {0x196b608, 0xc000304b40})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:25 http: panic serving [::1]:64501: runtime error: index out of range [1] with length 1
+goroutine 691 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e108?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:67 +0x365
+rpsweb/handlers.Play({0x196a860, 0xc0006f4100}, 0xc000b98280)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4100}, 0xc000b98280)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4100}, 0xc000b98280)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc0001a42a0}, 0xc000b98140, 0xc000719568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc0001a42a0}, 0xc000b98140)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc0001a42a0}, 0xc000b98140)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122090, {0x196b608, 0xc000126190})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:25 http: panic serving [::1]:64502: runtime error: index out of range [1] with length 1
+goroutine 673 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e1c8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:67 +0x365
+rpsweb/handlers.Play({0x196a860, 0xc0006f4240}, 0xc000b983c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4240}, 0xc000b983c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4240}, 0xc000b983c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc0001a4620}, 0xc000176000, 0xc000719568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc0001a4620}, 0xc000176000)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc0001a4620}, 0xc000176000)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0003022d0, {0x196b608, 0xc000304050})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:27 http: panic serving [::1]:64506: runtime error: index out of range [1] with length 1
+goroutine 693 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc000024438?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:75 +0x356
+rpsweb/handlers.Play({0x196a860, 0xc00006e9c0}, 0xc000072640)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc00006e9c0}, 0xc000072640)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc00006e9c0}, 0xc000072640)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000ce20e0}, 0xc000072500, 0xc000879568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000ce20e0}, 0xc000072500)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000ce20e0}, 0xc000072500)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0001225a0, {0x196b608, 0xc000cde0f0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:27 http: panic serving [::1]:64507: runtime error: index out of range [1] with length 1
+goroutine 695 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc000024528?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc00006ecc0}, 0xc0000728c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc00006ecc0}, 0xc0000728c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc00006ecc0}, 0xc0000728c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000ce22a0}, 0xc000072780, 0xc000879568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000ce22a0}, 0xc000072780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000ce22a0}, 0xc000072780)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122870, {0x196b608, 0xc000cde2d0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:27 http: panic serving [::1]:64509: runtime error: index out of range [2] with length 1
+goroutine 697 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc0007be2e8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:75 +0x356
+rpsweb/handlers.Play({0x196a860, 0xc0001cea80}, 0xc000176280)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0001cea80}, 0xc000176280)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0001cea80}, 0xc000176280)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000c200e0}, 0xc000176140, 0xc000c1d568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000c200e0}, 0xc000176140)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000c200e0}, 0xc000176140)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122ab0, {0x196b608, 0xc0003040a0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:28 Resultado: {¡Qué lástima! La computadora eligió TIJERA !La computadora gana¡ 2 7 5} | dd.trace_id=2885378542250258759 | dd.span_id=2885378542250258759
+2025/06/11 19:11:28 Resultado: {¡Qué lástima! La computadora eligió PIEDRA !La computadora gana¡ 0 8 5} | dd.trace_id=5000103371265468826 | dd.span_id=5000103371265468826
+2025/06/11 19:11:29 http: panic serving [::1]:64510: runtime error: index out of range [2] with length 1
+goroutine 688 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc000024c78?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc00006ef40}, 0xc000072dc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc00006ef40}, 0xc000072dc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc00006ef40}, 0xc000072dc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000ce2620}, 0xc000072c80, 0xc000c1d568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000ce2620}, 0xc000072c80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000ce2620}, 0xc000072c80)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0007441b0, {0x196b608, 0xc000304320})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:29 Resultado: {Oh oh, Inténtalo de nuevo La computadora eligió PAPEL Es un empate 1 8 6} | dd.trace_id=5894453295645376254 | dd.span_id=5894453295645376254
+2025/06/11 19:11:29 http: panic serving [::1]:64511: runtime error: index out of range [1] with length 1
+goroutine 700 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc000024e28?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:67 +0x365
+rpsweb/handlers.Play({0x196a860, 0xc00006f140}, 0xc000073400)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc00006f140}, 0xc000073400)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc00006f140}, 0xc000073400)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000ce29a0}, 0xc000073180, 0xc000c1d568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000ce29a0}, 0xc000073180)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000ce29a0}, 0xc000073180)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122c60, {0x196b608, 0xc000cde7d0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:29 http: panic serving [::1]:64512: runtime error: index out of range [1] with length 1
+goroutine 703 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e2e8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:67 +0x365
+rpsweb/handlers.Play({0x196a860, 0xc0006f4500}, 0xc000b988c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4500}, 0xc000b988c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4500}, 0xc000b988c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc0001a47e0}, 0xc000b98780, 0xc000719568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc0001a47e0}, 0xc000b98780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc0001a47e0}, 0xc000b98780)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122ea0, {0x196b608, 0xc0001266e0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:30 http: panic serving [::1]:64513: runtime error: index out of range [1] with length 1
+goroutine 704 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc0007be4b0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc0001cee80}, 0xc000177040)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0001cee80}, 0xc000177040)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0001cee80}, 0xc000177040)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000c20460}, 0xc000176f00, 0xc000719568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000c20460}, 0xc000176f00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000c20460}, 0xc000176f00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000122f30, {0x196b608, 0xc000304640})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:30 http: panic serving [::1]:64514: runtime error: index out of range [2] with length 1
+goroutine 724 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc0007be570?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc0001cefc0}, 0xc0001772c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0001cefc0}, 0xc0001772c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0001cefc0}, 0xc0001772c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000c20620}, 0xc000177180, 0xc000719568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000c20620}, 0xc000177180)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000c20620}, 0xc000177180)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0007446c0, {0x196b608, 0xc000304820})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:31 http: panic serving [::1]:64515: runtime error: index out of range [2] with length 1
+goroutine 708 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc0007be660?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc0001cf140}, 0xc000177540)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0001cf140}, 0xc000177540)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0001cf140}, 0xc000177540)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc000c207e0}, 0xc000073900, 0xc000c1d568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc000c207e0}, 0xc000073900)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc000c207e0}, 0xc000073900)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000302870, {0x196b608, 0xc000cdebe0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:11:31 http: panic serving [::1]:64517: runtime error: index out of range [1] with length 1
+goroutine 727 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1845aa0?, 0xc00009e3f0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:71 +0x35b
+rpsweb/handlers.Play({0x196a860, 0xc0006f4600}, 0xc000b98dc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x191bae0, {0x196a860, 0xc0006f4600}, 0xc000b98dc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0x196a860, 0xc0006f4600}, 0xc000b98dc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x1965880, 0xc0001a40e0}, {0x196a710, 0xc0001a49a0}, 0xc000073a40, 0xc000c1d568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00008b210, {0x196a710, 0xc0001a49a0}, 0xc000073a40)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0x196a710, 0xc0001a49a0}, 0xc000073a40)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000744ab0, {0x196b608, 0xc000cdec80})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:12:15 Servidor escuchando en http://localhost:8080
+2025/06/11 19:13:04 Servidor escuchando en http://localhost:8080
+2025/06/11 19:13:15 Servidor escuchando en http://localhost:8080
+2025/06/11 19:14:10 Resultado: {¡Bien echo! La computadora eligió PAPEL ¡El jugador gana! 1 0 1} | dd.trace_id=5868935577126749245 | dd.span_id=5868935577126749245
+2025/06/11 19:14:25 http: panic serving [::1]:64747: runtime error: index out of range [2] with length 2
+goroutine 82 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xe25aa0?, 0xc0000c4660?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0xf4a860, 0xc00069e940}, 0xc000154a00)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xefbae0, {0xf4a860, 0xc00069e940}, 0xc000154a00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002040e0, {0xf4a860, 0xc00069e940}, 0xc000154a00)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xf45880, 0xc0002040e0}, {0xf4a710, 0xc000204380}, 0xc0001548c0, 0xc0006ed568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00018f1a0, {0xf4a710, 0xc000204380}, 0xc0001548c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0006d2000}, {0xf4a710, 0xc000204380}, 0xc0001548c0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00074e480, {0xf4b608, 0xc000720820})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/11 19:14:25 Resultado: {¡Qué lástima! La computadora eligió PAPEL !La computadora gana¡ 1 1 1} | dd.trace_id=2320855037822218583 | dd.span_id=2320855037822218583
+2025/06/12 09:05:03 Servidor escuchando en http://localhost:8080
+2025/06/12 10:52:46 http: panic serving [::1]:58613: runtime error: index out of range [1] with length 1
+goroutine 1309 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0xbd5aa0?, 0xc0000b6510?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0xcfa880, 0xc0001ceac0}, 0xc000b568c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:77 +0xdd
+net/http.HandlerFunc.ServeHTTP(0xcabb00, {0xcfa880, 0xc0001ceac0}, 0xc000b568c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001a40e0, {0xcfa880, 0xc0001ceac0}, 0xc000b568c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0xcf58a0, 0xc0001a40e0}, {0xcfa730, 0xc0006780e0}, 0xc000b56780, 0xc000b49568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0001b6c30, {0xcfa730, 0xc0006780e0}, 0xc000b56780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007ac000}, {0xcfa730, 0xc0006780e0}, 0xc000b56780)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e4bd0, {0xcfb628, 0xc000af4460})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/12 10:52:46 Resultado: {¡Bien echo! La computadora eligió TIJERA ¡El jugador gana! 2 1 1} | dd.trace_id=2964493902637747212 | dd.span_id=2964493902637747212 | trace_id=2923ff7f7588cc0c
+2025/06/12 11:01:55 Resultado: {¡Bien echo! La computadora eligió PAPEL ¡El jugador gana! 1 1 2} | dd.trace_id=123456 | dd.span_id=3267113938709718598 | trace_id=000000000001e240
+2025/06/12 11:08:00 Servidor escuchando en http://localhost:8080
+2025/06/12 11:08:12 Resultado: {Oh oh, Inténtalo de nuevo La computadora eligió TIJERA Es un empate 2 0 0} | dd.trace_id=3634375781447838420 | dd.span_id=3634375781447838420 | trace_id=326fe584797b2ad4
+2025/06/12 11:19:09 Servidor escuchando en http://localhost:8080
+2025/06/12 11:24:27 Servidor escuchando en http://localhost:8080
+2025/06/12 11:25:01 http: panic serving [::1]:62236: runtime error: index out of range [2] with length 1
+goroutine 77 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x12c17c0?, 0xc000110828?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x14867c0, 0xc00029e3c0}, 0xc000e463c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x14006f8, {0x14867c0, 0xc00029e3c0}, 0xc000e463c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001640e0, {0x14867c0, 0xc00029e3c0}, 0xc000e463c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x147d0c0, 0xc0001640e0}, {0x1486670, 0xc0000d2000}, 0xc000091180, 0xc0008b1568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc000123160, {0x1486670, 0xc0000d2000}, 0xc000091180)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00089e5a0}, {0x1486670, 0xc0000d2000}, 0xc000091180)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00012e900, {0x1489d88, 0xc0008d6370})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/12 11:25:01 http: panic serving [::1]:62237: runtime error: index out of range [1] with length 1
+goroutine 62 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x12c17c0?, 0xc000110888?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x14867c0, 0xc00029e580}, 0xc000e46500)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x14006f8, {0x14867c0, 0xc00029e580}, 0xc000e46500)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0001640e0, {0x14867c0, 0xc00029e580}, 0xc000e46500)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x147d0c0, 0xc0001640e0}, {0x1486670, 0xc0000d20e0}, 0xc0000912c0, 0xc000ded568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc000123160, {0x1486670, 0xc0000d20e0}, 0xc0000912c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00089e5a0}, {0x1486670, 0xc0000d20e0}, 0xc0000912c0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000836900, {0x1489d88, 0xc0008d63c0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/12 11:25:01 my log message dd.service=rpsweb dd.env=lab dd.trace_id="684aff5d000000005261f80ae712c5f1" dd.span_id="5936298509561153009" dd.parent_id="0"
+2025/06/12 11:26:58 Servidor escuchando en http://localhost:8080
+2025/06/12 11:27:22 http: panic serving [::1]:62895: runtime error: index out of range [2] with length 1
+goroutine 83 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1e817c0?, 0xc0002a9830?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x20467c0, 0xc00029c6c0}, 0xc000090f00)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x1fc06f8, {0x20467c0, 0xc00029c6c0}, 0xc000090f00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc00015c0e0, {0x20467c0, 0xc00029c6c0}, 0xc000090f00)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x203d0c0, 0xc00015c0e0}, {0x2046670, 0xc0000d2000}, 0xc000090c80, 0xc00079d568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc000119130, {0x2046670, 0xc0000d2000}, 0xc000090c80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0008465a0}, {0x2046670, 0xc0000d2000}, 0xc000090c80)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000320ea0, {0x2049d88, 0xc0008783c0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/12 11:27:22 http: panic serving [::1]:62896: runtime error: index out of range [1] with length 1
+goroutine 84 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x1e817c0?, 0xc0002a9890?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x20467c0, 0xc00029c7c0}, 0xc000091040)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x1fc06f8, {0x20467c0, 0xc00029c7c0}, 0xc000091040)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc00015c0e0, {0x20467c0, 0xc00029c7c0}, 0xc000091040)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x203d0c0, 0xc00015c0e0}, {0x2046670, 0xc0000d20e0}, 0xc000090dc0, 0xc0004f3568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc000119130, {0x2046670, 0xc0000d20e0}, 0xc000090dc0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0008465a0}, {0x2046670, 0xc0000d20e0}, 0xc000090dc0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000320f30, {0x2049d88, 0xc000878410})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/12 11:27:22 my log message dd.service=rpsweb dd.env=lab dd.trace_id="684affea000000004dfa4ad348fc0b96" dd.span_id="5618885756421147542" dd.parent_id="0"
+2025/06/12 16:30:41 Servidor escuchando en http://localhost:8080
+2025/06/24 13:59:19 Servidor escuchando en http://localhost:8080
+2025/06/24 13:59:56 http: panic serving [::1]:63190: runtime error: index out of range [1] with length 1
+goroutine 108 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc0003a9308?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18667c0, 0xc000124c80}, 0xc000090f00)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc000124c80}, 0xc000090f00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc000124c80}, 0xc000090f00)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc0000d2380}, 0xc000090dc0, 0xc000fb3568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc0000d2380}, 0xc000090dc0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc0000d2380}, 0xc000090dc0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0008a5830, {0x1869d88, 0xc0000f3bd0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 13:59:56 http: panic serving [::1]:63189: runtime error: index out of range [2] with length 1
+goroutine 107 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc0003a9368?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18667c0, 0xc000124dc0}, 0xc000091040)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc000124dc0}, 0xc000091040)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc000124dc0}, 0xc000091040)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc0000d2700}, 0xc000090a00, 0xc0008d5568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc0000d2700}, 0xc000090a00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc0000d2700}, 0xc000090a00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0008a57a0, {0x1869d88, 0xc0000f3b80})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 13:59:56 my log message dd.service=rpsweb dd.env=lab dd.trace_id="685af5ac0000000029d62c82fde88cd5" dd.span_id="3014645941688372437" dd.parent_id="0"
+2025/06/24 13:59:58 my log message dd.service=rpsweb dd.env=lab dd.trace_id="685af5ae000000006cd2ca49236193f6" dd.span_id="7841552316680475638" dd.parent_id="0"
+2025/06/24 13:59:58 http: panic serving [::1]:63215: runtime error: index out of range [2] with length 1
+goroutine 76 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc00010a228?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18667c0, 0xc0002c8740}, 0xc000d763c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc0002c8740}, 0xc000d763c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc0002c8740}, 0xc000d763c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc000d7e0e0}, 0xc000d76280, 0xc000675568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc000d7e0e0}, 0xc000d76280)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc000d7e0e0}, 0xc000d76280)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00088c630, {0x1869d88, 0xc00029cfa0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 13:59:58 my log message dd.service=rpsweb dd.env=lab dd.trace_id="685af5ae0000000055e9667090dbe429" dd.span_id="6190591796450157609" dd.parent_id="0"
+2025/06/24 13:59:59 my log message dd.service=rpsweb dd.env=lab dd.trace_id="685af5af000000004fbea32839716c2e" dd.span_id="5746209567729085486" dd.parent_id="0"
+2025/06/24 13:59:59 http: panic serving [::1]:63224: runtime error: index out of range [1] with length 1
+goroutine 80 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc00010a288?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18667c0, 0xc0002c8840}, 0xc000d76640)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc0002c8840}, 0xc000d76640)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc0002c8840}, 0xc000d76640)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc000d7e2a0}, 0xc000d76500, 0xc000675568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc000d7e2a0}, 0xc000d76500)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc000d7e2a0}, 0xc000d76500)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00088cb40, {0x1869d88, 0xc00029d3b0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 13:59:59 http: panic serving [::1]:63225: runtime error: index out of range [2] with length 1
+goroutine 94 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc00010a2e8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18667c0, 0xc0002c8ac0}, 0xc000d768c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc0002c8ac0}, 0xc000d768c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc0002c8ac0}, 0xc000d768c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc000d7e460}, 0xc000d76780, 0xc000675568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc000d7e460}, 0xc000d76780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc000d7e460}, 0xc000d76780)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0003d54d0, {0x1869d88, 0xc000128fa0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 14:00:00 my log message dd.service=rpsweb dd.env=lab dd.trace_id="685af5b0000000003159e7c5143bd6b4" dd.span_id="3556128214419756724" dd.parent_id="0"
+2025/06/24 14:00:00 http: panic serving [::1]:63226: runtime error: index out of range [2] with length 1
+goroutine 96 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc0003a9488?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18667c0, 0xc0001250c0}, 0xc000091e00)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc0001250c0}, 0xc000091e00)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc0001250c0}, 0xc000091e00)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc0000d2a80}, 0xc000091cc0, 0xc000675568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc0000d2a80}, 0xc000091cc0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc0000d2a80}, 0xc000091cc0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0003d5680, {0x1869d88, 0xc000fc6410})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 14:00:00 http: panic serving [::1]:63227: runtime error: index out of range [2] with length 1
+goroutine 132 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc000034cf0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18667c0, 0xc0003fc800}, 0xc000623680)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc0003fc800}, 0xc000623680)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc0003fc800}, 0xc000623680)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc00064c9a0}, 0xc000623540, 0xc0008d5568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc00064c9a0}, 0xc000623540)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc00064c9a0}, 0xc000623540)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e2c60, {0x1869d88, 0xc00029d590})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 14:00:01 my log message dd.service=rpsweb dd.env=lab dd.trace_id="685af5b1000000007ffcb3468fc13b87" dd.span_id="9222443252588821383" dd.parent_id="0"
+2025/06/24 14:00:01 http: panic serving [::1]:63228: runtime error: index out of range [2] with length 2
+goroutine 147 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc000034d50?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0x18667c0, 0xc0003fc900}, 0xc000623900)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc0003fc900}, 0xc000623900)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc0003fc900}, 0xc000623900)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc00064cb60}, 0xc0006237c0, 0xc000e73568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc00064cb60}, 0xc0006237c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc00064cb60}, 0xc0006237c0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc00088ce10, {0x1869d88, 0xc000fc67d0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/06/24 14:00:01 http: panic serving [::1]:63229: runtime error: index out of range [2] with length 2
+goroutine 135 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16a17c0?, 0xc0003a95a8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0x18667c0, 0xc000125380}, 0xc000ffc8c0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17e06f8, {0x18667c0, 0xc000125380}, 0xc000ffc8c0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0000d2000, {0x18667c0, 0xc000125380}, 0xc000ffc8c0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x185d0c0, 0xc0000d2000}, {0x1866670, 0xc0000d2e00}, 0xc000ffc780, 0xc000867568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc0003b3050, {0x1866670, 0xc0000d2e00}, 0xc000ffc780)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc0007e00f0}, {0x1866670, 0xc0000d2e00}, 0xc000ffc780)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e3b90, {0x1869d88, 0xc000fc6910})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:05:28 Servidor escuchando en http://localhost:8080
+2025/07/04 16:16:28 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844ac000000004b4ef43b97d3e800" dd.span_id="5426543137815521280" dd.parent_id="0"
+2025/07/04 16:16:28 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844ac000000004050aaedc5cc12dc" dd.span_id="4634391954766697180" dd.parent_id="0"
+2025/07/04 16:16:29 http: panic serving [::1]:60768: runtime error: index out of range [2] with length 2
+goroutine 333 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc000036678?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0x18767c0, 0xc000192300}, 0xc0001aa140)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc000192300}, 0xc0001aa140)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc000192300}, 0xc0001aa140)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0000d40e0}, 0xc0001aa000, 0xc000955568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0000d40e0}, 0xc0001aa000)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0000d40e0}, 0xc0001aa000)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e5200, {0x1879d88, 0xc0000f4a50})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:16:29 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844ad000000007d24f1f5f9d95c8b" dd.span_id="9017598392663628939" dd.parent_id="0"
+2025/07/04 16:16:29 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844ad000000003c11ac59ea04a63c" dd.span_id="4328430219057997372" dd.parent_id="0"
+2025/07/04 16:16:29 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844ad00000000008c47263c98a937" dd.span_id="39484726290458935" dd.parent_id="0"
+2025/07/04 16:16:30 http: panic serving [::1]:60772: runtime error: index out of range [2] with length 1
+goroutine 399 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc00039c630?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18767c0, 0xc00007d7c0}, 0xc000094c80)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00007d7c0}, 0xc000094c80)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00007d7c0}, 0xc000094c80)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0002de700}, 0xc000094b40, 0xc000821568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0002de700}, 0xc000094b40)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0002de700}, 0xc000094b40)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0003163f0, {0x1879d88, 0xc0002b4230})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:16:30 http: panic serving [::1]:60773: runtime error: index out of range [2] with length 1
+goroutine 405 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc00039c6a8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18767c0, 0xc00007d8c0}, 0xc000094dc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00007d8c0}, 0xc000094dc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00007d8c0}, 0xc000094dc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0002de8c0}, 0xc0003303c0, 0xc000d83568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0002de8c0}, 0xc0003303c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0002de8c0}, 0xc0003303c0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0008682d0, {0x1879d88, 0xc000218140})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:16:30 http: panic serving [::1]:60774: runtime error: index out of range [2] with length 1
+goroutine 421 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc0002901c8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18767c0, 0xc0003a0b40}, 0xc000330500)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc0003a0b40}, 0xc000330500)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc0003a0b40}, 0xc000330500)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc00023e0e0}, 0xc000094f00, 0xc000821568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc00023e0e0}, 0xc000094f00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc00023e0e0}, 0xc000094f00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e5050, {0x1879d88, 0xc00033ae10})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:16:30 http: panic serving [::1]:60775: runtime error: index out of range [2] with length 2
+goroutine 422 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc0002902a0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0x18767c0, 0xc0003a0c80}, 0xc000330c80)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc0003a0c80}, 0xc000330c80)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc0003a0c80}, 0xc000330c80)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc00023e2a0}, 0xc000330640, 0xc000821568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc00023e2a0}, 0xc000330640)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc00023e2a0}, 0xc000330640)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e50e0, {0x1879d88, 0xc000218280})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:16:30 http: panic serving [::1]:60776: runtime error: index out of range [2] with length 2
+goroutine 434 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc00039c720?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0x18767c0, 0xc00007da80}, 0xc000095180)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00007da80}, 0xc000095180)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00007da80}, 0xc000095180)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0002dea80}, 0xc000095040, 0xc0009dd568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0002dea80}, 0xc000095040)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0002dea80}, 0xc000095040)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000316e10, {0x1879d88, 0xc00033ae60})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:07 http: panic serving [::1]:60802: runtime error: index out of range [1] with length 1
+goroutine 435 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc000036bb8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18767c0, 0xc000192bc0}, 0xc000bee000)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc000192bc0}, 0xc000bee000)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc000192bc0}, 0xc000bee000)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0000d47e0}, 0xc0001abe00, 0xc000d83568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0000d47e0}, 0xc0001abe00)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0000d47e0}, 0xc0001abe00)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000317170, {0x1879d88, 0xc0002b4be0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:07 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844d300000000658f7b8b08c34ed3" dd.span_id="7318203756578033363" dd.parent_id="0"
+2025/07/04 16:17:08 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844d4000000000f042b5a16a0f1cc" dd.span_id="1082037476402459084" dd.parent_id="0"
+2025/07/04 16:17:08 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844d40000000057dbcc748bbcb82a" dd.span_id="6330878502132037674" dd.parent_id="0"
+2025/07/04 16:17:08 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844d4000000001a2944c211d3cd73" dd.span_id="1885113519344700787" dd.parent_id="0"
+2025/07/04 16:17:08 http: panic serving [::1]:60803: runtime error: index out of range [1] with length 1
+goroutine 383 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc000300648?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18767c0, 0xc0002926c0}, 0xc000a85a40)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc0002926c0}, 0xc000a85a40)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc0002926c0}, 0xc000a85a40)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc000c380e0}, 0xc000a85900, 0xc0009dd568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc000c380e0}, 0xc000a85900)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc000c380e0}, 0xc000a85900)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0002c87e0, {0x1879d88, 0xc0002b4d20})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:08 http: panic serving [::1]:60806: runtime error: index out of range [2] with length 1
+goroutine 385 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc000300780?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x0)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18767c0, 0xc000292800}, 0xc000a85cc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc000292800}, 0xc000a85cc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc000292800}, 0xc000a85cc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc000c382a0}, 0xc000a85b80, 0xc0009dd568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc000c382a0}, 0xc000a85b80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc000c382a0}, 0xc000a85b80)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0002c8a20, {0x1879d88, 0xc0000f4e10})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:09 http: panic serving [::1]:60808: runtime error: index out of range [2] with length 2
+goroutine 451 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc00039c7f8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:70 +0x35b
+rpsweb/handlers.Play({0x18767c0, 0xc00007dcc0}, 0xc0008a2780)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00007dcc0}, 0xc0008a2780)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00007dcc0}, 0xc0008a2780)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0002dec40}, 0xc0008a2640, 0xc0009dd568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0002dec40}, 0xc0008a2640)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0002dec40}, 0xc0008a2640)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0002c8c60, {0x1879d88, 0xc00033b3b0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:09 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686844d500000000476043789ff71d82" dd.span_id="5143184959816015234" dd.parent_id="0"
+2025/07/04 16:17:53 my log message dd.service=rpsweb dd.env=lab dd.trace_id="686845010000000076853f1e2a4fe92b" dd.span_id="8540301667169462571" dd.parent_id="0"
+2025/07/04 16:17:53 http: panic serving [::1]:60809: runtime error: index out of range [1] with length 1
+goroutine 429 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc0000369f0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18767c0, 0xc000292800}, 0xc000094c80)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc000292800}, 0xc000094c80)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc000292800}, 0xc000094c80)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0002de620}, 0xc000094b40, 0xc000d13568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0002de620}, 0xc000094b40)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0002de620}, 0xc000094b40)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e5e60, {0x1879d88, 0xc00033b4a0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:53 http: panic serving [::1]:60849: runtime error: index out of range [2] with length 1
+goroutine 445 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc000290180?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x1)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18767c0, 0xc00030e540}, 0xc000331680)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00030e540}, 0xc000331680)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00030e540}, 0xc000331680)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0000d40e0}, 0xc0001aa3c0, 0xc000d17568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0000d40e0}, 0xc0001aa3c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0000d40e0}, 0xc0001aa3c0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc000868510, {0x1879d88, 0xc000218500})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:53 http: panic serving [::1]:60850: runtime error: index out of range [2] with length 1
+goroutine 446 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc00039c4e0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18767c0, 0xc00007d740}, 0xc0001aa500)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00007d740}, 0xc0001aa500)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00007d740}, 0xc0001aa500)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0008720e0}, 0xc0003317c0, 0xc000d17568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0008720e0}, 0xc0003317c0)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0008720e0}, 0xc0003317c0)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0008685a0, {0x1879d88, 0xc00033ae10})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:54 my log message dd.service=rpsweb dd.env=lab dd.trace_id="68684502000000003ca59c84af04f265" dd.span_id="4370071107118887525" dd.parent_id="0"
+2025/07/04 16:17:54 my log message dd.service=rpsweb dd.env=lab dd.trace_id="68684502000000005ee126dc7b9cb0b2" dd.span_id="6836788437733650610" dd.parent_id="0"
+2025/07/04 16:17:55 http: panic serving [::1]:60851: runtime error: index out of range [1] with length 1
+goroutine 483 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc0002901f8?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:74 +0x356
+rpsweb/handlers.Play({0x18767c0, 0xc00030e6c0}, 0xc000331a40)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00030e6c0}, 0xc000331a40)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00030e6c0}, 0xc000331a40)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0000d4380}, 0xc000331900, 0xc000d17568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0000d4380}, 0xc000331900)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0000d4380}, 0xc000331900)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e5170, {0x1879d88, 0xc0002b45a0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a
+2025/07/04 16:17:55 http: panic serving [::1]:60853: runtime error: index out of range [1] with length 1
+goroutine 485 [running]:
+net/http.(*conn).serve.func1()
+	C:/Program Files/Go/src/net/http/server.go:1947 +0x13f
+panic({0x16b17c0?, 0xc0002902d0?})
+	C:/Program Files/Go/src/runtime/panic.go:785 +0x136
+rpsweb/rps.PlayRound(0x2)
+	C:/Project/Go/src/rpsweb_datadog/rps/rps.go:66 +0x365
+rpsweb/handlers.Play({0x18767c0, 0xc00030e980}, 0xc000331cc0)
+	C:/Project/Go/src/rpsweb_datadog/handlers/handlers.go:78 +0xdd
+net/http.HandlerFunc.ServeHTTP(0x17f06f8, {0x18767c0, 0xc00030e980}, 0xc000331cc0)
+	C:/Program Files/Go/src/net/http/server.go:2220 +0x33
+net/http.(*ServeMux).ServeHTTP(0xc0002de000, {0x18767c0, 0xc00030e980}, 0xc000331cc0)
+	C:/Program Files/Go/src/net/http/server.go:2747 +0x3c2
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.TraceAndServe({0x186d0c0, 0xc0002de000}, {0x1876670, 0xc0000d4540}, 0xc000331b80, 0xc000d17568)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/trace.go:76 +0x67b
+gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http.(*ServeMux).ServeHTTP(0xc00031bee0, {0x1876670, 0xc0000d4540}, 0xc000331b80)
+	C:/Project/Go/pkg/mod/gopkg.in/!data!dog/dd-trace-go.v1@v1.60.1/contrib/net/http/http.go:60 +0x4e5
+net/http.serverHandler.ServeHTTP({0xc00012c5a0}, {0x1876670, 0xc0000d4540}, 0xc000331b80)
+	C:/Program Files/Go/src/net/http/server.go:3210 +0x257
+net/http.(*conn).serve(0xc0000e5290, {0x1879d88, 0xc00033afa0})
+	C:/Program Files/Go/src/net/http/server.go:2092 +0x1ab5
+created by net/http.(*Server).Serve in goroutine 1
+	C:/Program Files/Go/src/net/http/server.go:3360 +0xa9a

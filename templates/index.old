@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{ $data := . }}
+        <title>{{ $data.Title }}</title>
+    </head>
+    <body>
+        <h1>{{ $data.Message }}</h1>
+    </body>
+</html>
