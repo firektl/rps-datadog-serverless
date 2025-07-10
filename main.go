@@ -19,15 +19,15 @@ func main() {
 	log.Println("🚀 Iniciando rpsweb…")
 
 	tracer.Start(
-		tracer.WithService("rpsweb"),
-		tracer.WithEnv("lab"),
+		tracer.WithService(os.Getenv("DD_SERVICE")), //tracer.WithService("rpsweb"),
+		tracer.WithEnv(os.Getenv("DD_ENV")),         //tracer.WithEnv("lab"),
 		tracer.WithRuntimeMetrics(),
 	)
 	defer tracer.Stop()
 
 	err := profiler.Start(
-		profiler.WithService("rpsweb"),
-		profiler.WithEnv("lab"),
+		profiler.WithService(os.Getenv("DD_SERVICE")),
+		profiler.WithEnv(os.Getenv("DD_ENV")),
 		profiler.WithProfileTypes(
 			profiler.CPUProfile,
 			profiler.HeapProfile,
