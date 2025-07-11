@@ -4,6 +4,7 @@ docker run -d \
   -p 8080:8080 \
   --rm \
   --name rpsweb-monitor \
+  -e PORT=8080 \
   -e DD_API_KEY=0acdc68fa3aa878e900fa10217cf0bb9 \
   -e DD_SERVICE=rpsweb \
   -e DD_ENV=lab \

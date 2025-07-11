@@ -65,5 +65,10 @@ func main() {
 	port = ":" + port
 
 	log.Printf("Servidor escuchando en http://localhost%s\n", port)
-	log.Fatal(http.ListenAndServe(port, router))
+	log.Fatal(http.ListenAndServe(
+		port,
+		httptrace.WrapHandler(router, "rpsweb", "GET /"),
+	))
+
+	//log.Fatal(http.ListenAndServe(port, router))
 }
