@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"rpsweb/handlers"
 
-	httptrace "gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http"
-	//"gopkg.in/DataDog/dd-trace-go.v1/ddtrace/tracer"
-	"github.com/DataDog/dd-trace-go/v2/ddtrace/tracer"
+	httptrace "github.com/DataDog/dd-trace-go/contrib/net/http/v2" //  "gopkg.in/DataDog/dd-trace-go.v1/contrib/net/http"
+
+	tracer "github.com/DataDog/dd-trace-go/v2/ddtrace/tracer"
 )
 
 func main() {
@@ -24,23 +24,8 @@ func main() {
 	)
 	defer tracer.Stop()
 
-	// No aplica para cloudRun
-	/*err := profiler.Start(
-		profiler.WithService(os.Getenv("DD_SERVICE")),
-		profiler.WithEnv(os.Getenv("DD_ENV")),
-		profiler.WithProfileTypes(
-			profiler.CPUProfile,
-			profiler.HeapProfile,
-		),
-	)
-
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer profiler.Stop()*/
-
 	router := httptrace.NewServeMux(
-		httptrace.WithServiceName("rpsweb"),
+	/*httptrace.WithServiceName("rpsweb"),*/
 	)
 
 	ex, err := os.Executable()
@@ -56,7 +41,6 @@ func main() {
 	router.HandleFunc("/game", handlers.Game)
 	router.HandleFunc("/play", handlers.Play)
 	router.HandleFunc("/about", handlers.About)
-	//port := ":8080"
 
 	port := os.Getenv("PORT")
 	if port == "" {
@@ -64,11 +48,8 @@ func main() {
 	}
 	port = ":" + port
 
-	log.Printf("Servidor escuchando en http://localhost%s\n", port)
-	log.Fatal(http.ListenAndServe(
-		port,
-		httptrace.WrapHandler(router, "rpsweb", "GET /"),
-	))
+	wrapped := httptrace.WrapHandler(router, "rpsweb", "router")
 
-	//log.Fatal(http.ListenAndServe(port, router))
+	log.Printf("Servidor escuchando en http://localhost%s\n", port)
+	log.Fatal(http.ListenAndServe(port, wrapped))
 }
